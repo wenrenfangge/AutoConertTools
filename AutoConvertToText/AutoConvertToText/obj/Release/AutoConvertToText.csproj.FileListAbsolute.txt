@@ -1,0 +1,14 @@
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\bin\Release\AutoConvertToText.exe.config
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\bin\Release\AutoConvertToText.exe.manifest
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\bin\Release\AutoConvertToText.application
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\bin\Release\AutoConvertToText.exe
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\bin\Release\AutoConvertToText.pdb
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.csproj.ResolveComReference.cache
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.AutoConvertExcelToText.resources
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.csproj.GenerateResource.cache
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.csproj.CoreCompileInputs.cache
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.exe.manifest
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.application
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.exe
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.pdb
+E:\MyDownloads\AutoConvertToText\AutoConvertToText\AutoConvertToText\obj\Release\AutoConvertToText.csprojResolveAssemblyReference.cache
